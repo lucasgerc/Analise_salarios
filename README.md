@@ -42,7 +42,7 @@ A reputação da marca empregadora (Branding) não é um preditor direto de sal�
 
 ## 🔒 Conclusão do Projeto
 
-Este projeto reforça que o setor de tecnologia não é apenas um dos mais dinâmicos, mas também um dos mais estruturados da economia global. Através da análise, pudemos concluir que:
+Este projeto reforça que o setor de tecnologia não é apenas um dos mais dinâmicos, mas também um dos mais estruturados da economia global. Através da análise, podemos concluir que:
 * **A especialização técnica é recompensada: Áreas fundamentais como Engenharia de Software (SDE) e Gerenciamento de Dados (Database) salários robustos, refletindo a alta demanda por profissionais que sustentam a infraestrutura digital das empresas.**
 * **O mercado de tecnologia na Índia possui alguns centros de "excelência". Profissionais em hubs como Mumbai, tem acesso empresas que valorizam a senioridade com pacotes de remuneração agressivos.**
 * **Cultura vs. Compensação: O fato de não haver correlação direta entre o Rating da empresa e o salário médio desmistifica a ideia de que "boas empresas para se trabalhar" são necessariamente as que pagam mais.**
