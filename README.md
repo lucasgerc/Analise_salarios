@@ -25,7 +25,7 @@ O dataset original provém do mercado indiano. Os valores numéricos apresentado
 ## 💡 Principais Percepções após a análise
 
 ## 1. Onde está o dinheiro? (Top Cidades)
-A análise geográfica revelou que **Mumbai** e **Bangalore** e **Pune** atuam como os grandes polos financeiros de tech na região, apresentando médias salariais superiores a capitais administrativas como New Delhi.
+A análise geográfica revelou que **Mumbai**, **Bangalore** e **Pune** atuam como os grandes polos financeiros de tech na região, apresentando médias salariais superiores a capitais administrativas como New Delhi.
 
 ![Médias salariais por cidade](/img/media_salarial_cidade.png)
 
